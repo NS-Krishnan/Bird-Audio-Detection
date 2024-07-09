@@ -1,0 +1,4 @@
+Dataset Link: https://www.kaggle.com/code/langatfestus/birdaudiodetection/input?select=ff1010bird_wav
+
+
+We have also attached the Run.py through which we can check with the induvidual file if the audio has bird sound or not
